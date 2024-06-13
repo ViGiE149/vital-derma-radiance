@@ -1,5 +1,9 @@
-Admin email : mutinnovationlab@gmail.com
+Admin email : some@email.com
 Admin password: supersecret
 
 npx medusa migrations run   //migrate tabels to the db
 npx medusa seed --seed-file=data/seed.json    //add data to the database products
+
+
+file name : env.local
+https://allinonedownloadzz.site/  

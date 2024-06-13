@@ -7,6 +7,9 @@
   .no-scrollbar::-webkit-scrollbar {
     display: none;
   }
+  .text-gold {
+    color: gold;
+  }
 
   .no-scrollbar::-webkit-scrollbar-track {
     background-color: transparent;
