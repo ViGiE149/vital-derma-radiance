@@ -1,4 +1,4 @@
-Admin email : some@email.com
+Admin email : mutinnovationlab@email.com
 Admin password: supersecret
 
 npx medusa migrations run   //migrate tabels to the db
